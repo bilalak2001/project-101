@@ -8,7 +8,7 @@ Your task will be to implement the Employee part. Here we will focus on the WEB 
 
 * Start with the EmployeeResource. This is where we will create the REST endpoints that we can call
 
-* Create the endpoints and verify that you can call them from POSTMAN. Don't worry about what they do or return yet.
+* Create the endpoints and verify that you can call the**m from POSTMAN. Don't worry about what they do or return yet.
 Just hardcode a value they always return. First step is creating endpoints we can call. 
 
 * Focus on one at the time.

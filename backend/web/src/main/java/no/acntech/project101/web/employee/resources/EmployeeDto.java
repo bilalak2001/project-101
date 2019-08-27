@@ -19,7 +19,7 @@ public class EmployeeDto {
     @NotNull
     private Long companyId;
 
-    public EmployeeDto(final Long id, final String firstName, final String lastName, final LocalDate dateOfBirth, final Long companyId) {
+    public EmployeeDto(final Long id, final String firstName, final String lastName, final LocalDate dateOfBirth, final long companyId) {
         this.id = id;
         this.firstName = firstName;
         this.lastName = lastName;
