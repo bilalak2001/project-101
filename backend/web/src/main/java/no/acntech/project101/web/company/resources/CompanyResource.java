@@ -1,4 +1,4 @@
-package no.acntech.project101.web.company.resources;
+package no.acntech.project101.web.employee.resources;
 
 import java.net.URI;
 import java.util.List;
